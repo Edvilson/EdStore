@@ -1,0 +1,9 @@
+C:\cursos\EdStore\EdStore.Infra\bin\Debug\netstandard2.0\EdStore.Infra.deps.json
+C:\cursos\EdStore\EdStore.Infra\bin\Debug\netstandard2.0\EdStore.Infra.dll
+C:\cursos\EdStore\EdStore.Infra\bin\Debug\netstandard2.0\EdStore.Infra.pdb
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.csproj.CoreCompileInputs.cache
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.AssemblyInfoInputs.cache
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.AssemblyInfo.cs
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.dll
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.pdb
+C:\cursos\EdStore\EdStore.Infra\obj\Debug\netstandard2.0\EdStore.Infra.csprojAssemblyReference.cache

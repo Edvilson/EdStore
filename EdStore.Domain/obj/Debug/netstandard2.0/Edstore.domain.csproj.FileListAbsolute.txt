@@ -1,0 +1,9 @@
+C:\cursos\EdStore\EdStore.Domain\bin\Debug\netstandard2.0\Edstore.domain.deps.json
+C:\cursos\EdStore\EdStore.Domain\bin\Debug\netstandard2.0\Edstore.domain.dll
+C:\cursos\EdStore\EdStore.Domain\bin\Debug\netstandard2.0\Edstore.domain.pdb
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.csprojAssemblyReference.cache
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.csproj.CoreCompileInputs.cache
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.AssemblyInfoInputs.cache
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.AssemblyInfo.cs
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.dll
+C:\cursos\EdStore\EdStore.Domain\obj\Debug\netstandard2.0\Edstore.domain.pdb

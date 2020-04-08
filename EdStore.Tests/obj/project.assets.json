@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Edstore.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Edstore.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Edstore.domain.dll": {}
+        }
       }
     }
   },
@@ -5705,10 +5715,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Edstore.domain/1.0.0": {
+      "type": "project",
+      "path": "../EdStore.Domain/Edstore.domain.csproj",
+      "msbuildProject": "../EdStore.Domain/Edstore.domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Edstore.domain >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5716,7 +5732,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\angel\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5727,9 +5744,13 @@
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
       "outputPath": "C:\\cursos\\EdStore\\EdStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5740,7 +5761,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj": {
+              "projectPath": "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
