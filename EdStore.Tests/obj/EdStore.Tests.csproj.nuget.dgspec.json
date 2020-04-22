@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cursos\\EdStore\\EdStore.Tests\\EdStore.Tests.csproj": {}
+    "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj": {
+    "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj",
-        "projectName": "Edstore.domain",
-        "projectPath": "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj",
+        "projectUniqueName": "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj",
+        "projectName": "EdStore.Domain",
+        "projectPath": "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\cursos\\EdStore\\EdStore.Domain\\obj\\",
+        "outputPath": "C:\\cursos\\edstore\\EdStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,6 +42,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -63,14 +71,14 @@
         }
       }
     },
-    "C:\\cursos\\EdStore\\EdStore.Tests\\EdStore.Tests.csproj": {
+    "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursos\\EdStore\\EdStore.Tests\\EdStore.Tests.csproj",
+        "projectUniqueName": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
         "projectName": "EdStore.Tests",
-        "projectPath": "C:\\cursos\\EdStore\\EdStore.Tests\\EdStore.Tests.csproj",
+        "projectPath": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\cursos\\EdStore\\EdStore.Tests\\obj\\",
+        "outputPath": "C:\\cursos\\edstore\\edstore.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +98,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj": {
-                "projectPath": "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj"
+              "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj": {
+                "projectPath": "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj"
               }
             }
           }

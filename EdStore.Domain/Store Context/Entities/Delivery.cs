@@ -1,9 +1,10 @@
 using System;
-using Edstore.domain.Store_Context.Entities.Enums;
+using Edstore.domain.Store_Context.Enums;
+using FluentValidator;
 
 namespace EdStore.Domain.StoreContext.Entites
 {
-    public class Delivery
+    public class Delivery : Notifiable
     {
         public Delivery(DateTime estimatedDeliveryDate)
         {
@@ -15,5 +16,16 @@ namespace EdStore.Domain.StoreContext.Entites
         public DateTime CreateDate { get; private set; }
         public DateTime EstimatedDeliveryDate { get; private set; }
         public EDeliveryStatus Status { get; private set; }
+
+        public void Ship()
+        {
+
+            Status = EDeliveryStatus.Shipped;
+        }
+
+        public void Cancel()
+        {
+            Status = EDeliveryStatus.Canceled;
+        }
     }
 }

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iI7Xz4vGo/JR28seWTV+1NknCeidrduZ6Le7acpFtDw6PYzfKMr/2EooMonzfUIJI9yEgIdPGlexjyNJMvyc1w==",
+  "dgSpecHash": "YOqVmE4BUrKBtrVAix/NTXpA8NT0MP30pQmrU59nUe/G0rkF8WC3GzalC5laqdxzWiuJ7QcN7Qc7Fz45qvboCg==",
   "success": true,
-  "projectFilePath": "C:\\cursos\\EdStore\\EdStore.Domain\\Edstore.domain.csproj",
+  "projectFilePath": "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\angel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\angel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []
 }

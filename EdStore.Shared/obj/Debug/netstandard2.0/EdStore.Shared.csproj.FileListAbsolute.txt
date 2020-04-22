@@ -6,3 +6,4 @@ C:\cursos\EdStore\EdStore.Shared\obj\Debug\netstandard2.0\EdStore.Shared.Assembl
 C:\cursos\EdStore\EdStore.Shared\obj\Debug\netstandard2.0\EdStore.Shared.AssemblyInfo.cs
 C:\cursos\EdStore\EdStore.Shared\obj\Debug\netstandard2.0\EdStore.Shared.dll
 C:\cursos\EdStore\EdStore.Shared\obj\Debug\netstandard2.0\EdStore.Shared.pdb
+C:\cursos\EdStore\edstore.shared\obj\Debug\netstandard2.0\edstore.shared.csprojAssemblyReference.cache

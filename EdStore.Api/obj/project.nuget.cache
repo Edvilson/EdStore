@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rPPuR+7b8svxcHOkmUbiF6YTmbrxBuv491XslfFO9fvIiHIl/VpWCNSxL5sVh3joHcsOCuUu5eaf8fRxoDQPPg==",
+  "dgSpecHash": "FJoRydzeQZDkB1fYxMwizXK/TlNpAyJwQSUr3POExqXYo/SnC0JDrO5ETkzCYG6LTjHExpURCDfRYeBG0Rd+Wg==",
   "success": true,
-  "projectFilePath": "C:\\cursos\\EdStore\\EdStore.Api\\EdStore.Api.csproj",
+  "projectFilePath": "c:\\cursos\\EdStore\\EdStore.Api\\EdStore.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

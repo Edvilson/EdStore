@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hrmMTshqySF9SURK5QRxwy6y5oLeJdLoERpZEEt389kBFAfDPhTsJ289tKt4C3stn9zNT3r1VOuLuVHlH3dKQw==",
+  "dgSpecHash": "IQhTeSEa0xinlIy6PoPTtbKEmXC/uvwKRubimjS2/+u+gFsqevXFY22M7WLKf6UdFwjmlqH1h49jpboSpY/PRA==",
   "success": true,
-  "projectFilePath": "C:\\cursos\\EdStore\\EdStore.Tests\\EdStore.Tests.csproj",
+  "projectFilePath": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
@@ -38,6 +40,7 @@
     "C:\\Users\\angel\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",

@@ -1,9 +1,10 @@
-using Edstore.domain.Store_Context.Entities.Enums;
+using Edstore.domain.Store_Context.Enums;
+using FluentValidator;
 
 namespace EdStore.Domain.StoreContext.Entites
 {
    
-    public class Address
+    public class Address : Notifiable
     {
         public Address(string street, string number, string complement, string district, string city, string state, string country, string zipCode, EAddressType type)
         {

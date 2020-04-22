@@ -1,4 +1,4 @@
-namespace Edstore.domain.Store_Context.Entities.Enums
+namespace Edstore.domain.Store_Context.Enums
 {
     public enum EDeliveryStatus
     {

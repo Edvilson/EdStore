@@ -94,3 +94,5 @@ C:\cursos\EdStore\EdStore.Tests\obj\Debug\netcoreapp3.1\EdStore.Tests.pdb
 C:\cursos\EdStore\EdStore.Tests\obj\Debug\netcoreapp3.1\EdStore.Tests.genruntimeconfig.cache
 C:\cursos\EdStore\EdStore.Tests\bin\Debug\netcoreapp3.1\Edstore.domain.dll
 C:\cursos\EdStore\EdStore.Tests\bin\Debug\netcoreapp3.1\Edstore.domain.pdb
+C:\cursos\edstore\edstore.tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\cursos\edstore\edstore.tests\bin\Debug\netcoreapp3.1\FluentValidator.dll
