@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQhTeSEa0xinlIy6PoPTtbKEmXC/uvwKRubimjS2/+u+gFsqevXFY22M7WLKf6UdFwjmlqH1h49jpboSpY/PRA==",
+  "dgSpecHash": "RteCQInLaRHPVVvoox9ViTvHIH2kNeFMgvp8JmSGkgDSxih0KwkJEjjiKt4cwbECEqULMQqd2rZvXt7odjF3Ig==",
   "success": true,
-  "projectFilePath": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
+  "projectFilePath": "C:\\cursos\\EdStore\\edstore.tests\\EdStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

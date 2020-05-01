@@ -1673,13 +1673,24 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "FluentValidation": "8.6.2",
-          "FluentValidator": "2.0.4"
+          "FluentValidator": "2.0.4",
+          "edstore.shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/EdStore.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/EdStore.Domain.dll": {}
+        }
+      },
+      "edstore.shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/edstore.shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/edstore.shared.dll": {}
         }
       }
     }
@@ -5875,6 +5886,11 @@
       "type": "project",
       "path": "../EdStore.Domain/EdStore.Domain.csproj",
       "msbuildProject": "../EdStore.Domain/EdStore.Domain.csproj"
+    },
+    "edstore.shared/1.0.0": {
+      "type": "project",
+      "path": "../edstore.shared/edstore.shared.csproj",
+      "msbuildProject": "../edstore.shared/edstore.shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5893,11 +5909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
+      "projectUniqueName": "C:\\cursos\\EdStore\\edstore.tests\\EdStore.Tests.csproj",
       "projectName": "EdStore.Tests",
-      "projectPath": "C:\\cursos\\edstore\\edstore.tests\\EdStore.Tests.csproj",
+      "projectPath": "C:\\cursos\\EdStore\\edstore.tests\\EdStore.Tests.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\cursos\\edstore\\edstore.tests\\obj\\",
+      "outputPath": "C:\\cursos\\EdStore\\edstore.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5917,8 +5933,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj": {
-              "projectPath": "C:\\cursos\\edstore\\EdStore.Domain\\EdStore.Domain.csproj"
+            "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj": {
+              "projectPath": "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj"
             }
           }
         }

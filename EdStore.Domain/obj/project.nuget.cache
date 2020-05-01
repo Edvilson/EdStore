@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOqVmE4BUrKBtrVAix/NTXpA8NT0MP30pQmrU59nUe/G0rkF8WC3GzalC5laqdxzWiuJ7QcN7Qc7Fz45qvboCg==",
+  "dgSpecHash": "7FFodeW4pZkwZu6ob8oBWUIcw9awiFShAj5upptQsgrKrNPEm1TTY5icGSU+tSI2MvtVrNTTc5WLzDZY2BNCxg==",
   "success": true,
-  "projectFilePath": "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj",
+  "projectFilePath": "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",

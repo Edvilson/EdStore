@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Edstore.domain/1.0.0": {
+      "EdStore.Domain/1.0.0": {
         "dependencies": {
           "FluentValidation": "8.6.2",
           "FluentValidator": "2.0.4",
@@ -15,7 +15,7 @@
           "edstore.shared": "1.0.0"
         },
         "runtime": {
-          "Edstore.domain.dll": {}
+          "EdStore.Domain.dll": {}
         }
       },
       "FluentValidation/8.6.2": {
@@ -62,7 +62,7 @@
     }
   },
   "libraries": {
-    "Edstore.domain/1.0.0": {
+    "EdStore.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

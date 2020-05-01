@@ -96,3 +96,5 @@ C:\cursos\EdStore\EdStore.Tests\bin\Debug\netcoreapp3.1\Edstore.domain.dll
 C:\cursos\EdStore\EdStore.Tests\bin\Debug\netcoreapp3.1\Edstore.domain.pdb
 C:\cursos\edstore\edstore.tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\cursos\edstore\edstore.tests\bin\Debug\netcoreapp3.1\FluentValidator.dll
+C:\cursos\EdStore\edstore.tests\bin\Debug\netcoreapp3.1\edstore.shared.dll
+C:\cursos\EdStore\edstore.tests\bin\Debug\netcoreapp3.1\edstore.shared.pdb

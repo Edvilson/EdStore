@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj": {}
+    "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj": {
+    "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj",
-        "projectName": "Edstore.domain",
-        "projectPath": "C:\\cursos\\EdStore\\edstore.domain\\Edstore.domain.csproj",
+        "projectUniqueName": "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj",
+        "projectName": "EdStore.Domain",
+        "projectPath": "C:\\cursos\\EdStore\\EdStore.Domain\\EdStore.Domain.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\cursos\\EdStore\\edstore.domain\\obj\\",
+        "outputPath": "C:\\cursos\\EdStore\\EdStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
